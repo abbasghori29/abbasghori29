@@ -101,50 +101,6 @@ I'm an **AI Engineer** with a passion for building **intelligent, scalable, and 
 
 ---
 
-## 🏆 Featured Projects
-
-### 🤖 **ContractFlow: AI-Powered Legal Assistant**
-Built a production-grade Generative AI application for contract analysis and drafting using **Llama 4**, **LangChain**, and **Pinecone**. Leveraged the CUAD dataset (13,000+ labeled clauses) with persistent memory using **PostgreSQL (AWS RDS)**. Deployed full-stack **FastAPI-React** application on **AWS EC2** for real-time legal assistance.
-
-**Tech:** Llama 4, LangChain, Pinecone, PostgreSQL, FastAPI, React, AWS
-
----
-
-### 📰 **Newsroom AI**
-End-to-end blog automation system with multi-agent orchestration. Integrated AI agents (Journalist, Editor, SEO Bot) using **LangChain**, **LangGraph**, and **Groq** to fetch trending topics, generate articles, proofread content, and optimize for SEO automatically.
-
-**Tech:** LangChain, LangGraph, Groq, Web Scraping, NLP
-
----
-
-### 💰 **FinSync AI – Intelligent Bank Statement Parser**
-Built an intelligent document processing system using **Llama Parse** and **Gemini-2.5-Pro** to extract and consolidate multiple bank statement tables into unified XLSX files. Implemented **WebSocket** for real-time progress tracking, enabling seamless Tableau integration for financial analysis.
-
-**Tech:** FastAPI, Llama Parse, Gemini AI, WebSocket, Document Intelligence
-
----
-
-### 🎓 **EduConnect AI – Smart Academic Assistant Chatbots**
-Developed intelligent chatbot systems for coaching centers and schools to bridge communication gaps between management, students, and prospective students. Built conversational AI agents using **OpenAI** and **LangChain** to handle inquiries about admissions, course details, schedules, and academic support—improving response times and student engagement.
-
-**Tech:** OpenAI, LangChain, Python, FastAPI, NLP, Conversational AI
-
----
-
-### 🌱 **LeafCheck: AI-Driven Plant Wellness Platform**
-Advanced plant disease classification system using **CNNs** and deep learning. Built a Django-based web application that accurately identifies plant diseases from visual cues and provides intelligent remedy suggestions.
-
-**Tech:** TensorFlow, CNN, Django, Computer Vision
-
----
-
-### 🛒 **Prime Picks E-commerce Platform**
-Led end-to-end development of a modern, scalable e-commerce platform using the **MERN stack** (MongoDB, Express.js, React, Node.js), delivering a responsive solution with full payment integration and inventory management.
-
-**Tech:** MongoDB, Express.js, React, Node.js, RESTful APIs
-
----
-
 ## 📚 Publications
 
 📄 **"The Dual-Edged Potential of AI Autonomously Defining Loss Functions"**  
@@ -181,10 +137,6 @@ Discusses AI's role in preventive dental care, focusing on smart devices, real-t
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasghori29&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasghori29&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abbasghori29&theme=radical)
 
 </div>
